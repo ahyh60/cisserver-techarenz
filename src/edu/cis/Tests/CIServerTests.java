@@ -1,9 +1,3 @@
-/*
- * File: CIServerTests.java
- * -----------------------
- * This program tests your server by sending a bunch of requests
- * and validating if the response is what it was expecting.
- */
 package edu.cis.Tests;
 
 import acm.program.*;
